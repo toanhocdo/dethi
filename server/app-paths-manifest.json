@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/quizzes/[id]/page": "app/quizzes/[id]/page.js",
+  "/quizzes/[id]/result/page": "app/quizzes/[id]/result/page.js",
+  "/quizzes/page": "app/quizzes/page.js",
+  "/register/page": "app/register/page.js",
+  "/admin/import-export/page": "app/admin/import-export/page.js",
+  "/admin/auto-grading/page": "app/admin/auto-grading/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/question-types/page": "app/admin/question-types/page.js",
+  "/admin/quizzes/create/page": "app/admin/quizzes/create/page.js",
+  "/admin/questions/create/page": "app/admin/questions/create/page.js",
+  "/admin/questions/page": "app/admin/questions/page.js",
+  "/admin/quizzes/page": "app/admin/quizzes/page.js",
+  "/admin/results/[id]/page": "app/admin/results/[id]/page.js",
+  "/admin/results/page": "app/admin/results/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/statistics/page": "app/admin/statistics/page.js",
+  "/admin/users/[id]/page": "app/admin/users/[id]/page.js",
+  "/admin/users/page": "app/admin/users/page.js"
+}
